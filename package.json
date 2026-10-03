@@ -1,0 +1,23 @@
+{
+  "name": "core-bot-v12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "better-sqlite3": "^12.11.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "moment": "^2.30.1",
+    "pm2": "^7.0.3",
+    "rcon-client": "^4.2.5",
+    "superagent": "^6.1.0"
+  }
+}
